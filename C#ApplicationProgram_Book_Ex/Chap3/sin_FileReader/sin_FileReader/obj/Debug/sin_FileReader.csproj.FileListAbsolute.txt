@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileReader\sin_FileReader\bin\Debug\sin_FileReader.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileReader\sin_FileReader\bin\Debug\sin_FileReader.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileReader\sin_FileReader\bin\Debug\sin_FileReader.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileReader\sin_FileReader\obj\Debug\sin_FileReader.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileReader\sin_FileReader\obj\Debug\sin_FileReader.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileReader\sin_FileReader\obj\Debug\sin_FileReader.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileReader\sin_FileReader\obj\Debug\sin_FileReader.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileReader\sin_FileReader\obj\Debug\sin_FileReader.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileReader\sin_FileReader\obj\Debug\sin_FileReader.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileReader\sin_FileReader\obj\Debug\sin_FileReader.pdb

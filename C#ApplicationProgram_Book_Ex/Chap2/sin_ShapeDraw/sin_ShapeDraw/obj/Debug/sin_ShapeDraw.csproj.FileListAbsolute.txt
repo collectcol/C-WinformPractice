@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_ShapeDraw\sin_ShapeDraw\bin\Debug\sin_ShapeDraw.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_ShapeDraw\sin_ShapeDraw\bin\Debug\sin_ShapeDraw.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_ShapeDraw\sin_ShapeDraw\bin\Debug\sin_ShapeDraw.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_ShapeDraw\sin_ShapeDraw\obj\Debug\sin_ShapeDraw.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_ShapeDraw\sin_ShapeDraw\obj\Debug\sin_ShapeDraw.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_ShapeDraw\sin_ShapeDraw\obj\Debug\sin_ShapeDraw.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_ShapeDraw\sin_ShapeDraw\obj\Debug\sin_ShapeDraw.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_ShapeDraw\sin_ShapeDraw\obj\Debug\sin_ShapeDraw.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_ShapeDraw\sin_ShapeDraw\obj\Debug\sin_ShapeDraw.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_ShapeDraw\sin_ShapeDraw\obj\Debug\sin_ShapeDraw.pdb

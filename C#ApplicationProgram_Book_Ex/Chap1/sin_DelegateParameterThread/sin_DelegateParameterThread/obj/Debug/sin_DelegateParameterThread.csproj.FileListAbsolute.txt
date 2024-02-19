@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_DelegateParameterThread\sin_DelegateParameterThread\bin\Debug\sin_DelegateParameterThread.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_DelegateParameterThread\sin_DelegateParameterThread\bin\Debug\sin_DelegateParameterThread.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_DelegateParameterThread\sin_DelegateParameterThread\bin\Debug\sin_DelegateParameterThread.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_DelegateParameterThread\sin_DelegateParameterThread\obj\Debug\sin_DelegateParameterThread.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_DelegateParameterThread\sin_DelegateParameterThread\obj\Debug\sin_DelegateParameterThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_DelegateParameterThread\sin_DelegateParameterThread\obj\Debug\sin_DelegateParameterThread.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_DelegateParameterThread\sin_DelegateParameterThread\obj\Debug\sin_DelegateParameterThread.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_DelegateParameterThread\sin_DelegateParameterThread\obj\Debug\sin_DelegateParameterThread.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_DelegateParameterThread\sin_DelegateParameterThread\obj\Debug\sin_DelegateParameterThread.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_DelegateParameterThread\sin_DelegateParameterThread\obj\Debug\sin_DelegateParameterThread.pdb

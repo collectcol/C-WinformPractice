@@ -1,0 +1,14 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\bin\Debug\sin_ThreadReceiveData.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\bin\Debug\sin_ThreadReceiveData.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\bin\Debug\sin_ThreadReceiveData.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\bin\Debug\sin_SendData.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\bin\Debug\sin_SendData.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\bin\Debug\sin_SendData.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\obj\Debug\sin_ThreadReceiveData.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\obj\Debug\sin_ThreadReceiveData.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\obj\Debug\sin_ThreadReceiveData.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\obj\Debug\sin_ThreadReceiveData.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\obj\Debug\sin_ThreadReceiveData.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\obj\Debug\sin_ThreadReceiveData.csproj.CopyComplete
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\obj\Debug\sin_ThreadReceiveData.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ThreadReceiveData\sin_ThreadReceiveData\obj\Debug\sin_ThreadReceiveData.pdb

@@ -1,0 +1,11 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileCopyMove\sin_FileCopyMove\bin\Debug\sin_FileCopyMove.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileCopyMove\sin_FileCopyMove\bin\Debug\sin_FileCopyMove.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileCopyMove\sin_FileCopyMove\bin\Debug\sin_FileCopyMove.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileCopyMove\sin_FileCopyMove\obj\Debug\sin_FileCopyMove.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileCopyMove\sin_FileCopyMove\obj\Debug\sin_FileCopyMove.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileCopyMove\sin_FileCopyMove\obj\Debug\sin_FileCopyMove.FileLoad.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileCopyMove\sin_FileCopyMove\obj\Debug\sin_FileCopyMove.form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileCopyMove\sin_FileCopyMove\obj\Debug\sin_FileCopyMove.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileCopyMove\sin_FileCopyMove\obj\Debug\sin_FileCopyMove.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileCopyMove\sin_FileCopyMove\obj\Debug\sin_FileCopyMove.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileCopyMove\sin_FileCopyMove\obj\Debug\sin_FileCopyMove.pdb

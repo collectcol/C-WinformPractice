@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_AccessDB\sin_AccessDB\bin\Debug\sin_AccessDB.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_AccessDB\sin_AccessDB\bin\Debug\sin_AccessDB.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_AccessDB\sin_AccessDB\bin\Debug\sin_AccessDB.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_AccessDB\sin_AccessDB\obj\Debug\sin_AccessDB.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_AccessDB\sin_AccessDB\obj\Debug\sin_AccessDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_AccessDB\sin_AccessDB\obj\Debug\sin_AccessDB.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_AccessDB\sin_AccessDB\obj\Debug\sin_AccessDB.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_AccessDB\sin_AccessDB\obj\Debug\sin_AccessDB.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_AccessDB\sin_AccessDB\obj\Debug\sin_AccessDB.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_AccessDB\sin_AccessDB\obj\Debug\sin_AccessDB.pdb

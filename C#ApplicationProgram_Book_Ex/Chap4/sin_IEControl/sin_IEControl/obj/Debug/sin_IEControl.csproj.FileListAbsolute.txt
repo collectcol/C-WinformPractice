@@ -1,0 +1,12 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\bin\Debug\sin_IEControl.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\bin\Debug\sin_IEControl.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\bin\Debug\sin_IEControl.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\obj\Debug\sin_IEControl.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\obj\Debug\sin_IEControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\obj\Debug\Interop.SHDocVw.dll
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\obj\Debug\sin_IEControl.csproj.ResolveComReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\obj\Debug\sin_IEControl.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\obj\Debug\sin_IEControl.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\obj\Debug\sin_IEControl.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\obj\Debug\sin_IEControl.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_IEControl\sin_IEControl\obj\Debug\sin_IEControl.pdb

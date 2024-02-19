@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_ParameterThread\sin_ParameterThread\bin\Debug\sin_ParameterThread.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_ParameterThread\sin_ParameterThread\bin\Debug\sin_ParameterThread.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_ParameterThread\sin_ParameterThread\bin\Debug\sin_ParameterThread.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_ParameterThread\sin_ParameterThread\obj\Debug\sin_ParameterThread.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_ParameterThread\sin_ParameterThread\obj\Debug\sin_ParameterThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_ParameterThread\sin_ParameterThread\obj\Debug\sin_ParameterThread.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_ParameterThread\sin_ParameterThread\obj\Debug\sin_ParameterThread.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_ParameterThread\sin_ParameterThread\obj\Debug\sin_ParameterThread.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_ParameterThread\sin_ParameterThread\obj\Debug\sin_ParameterThread.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_ParameterThread\sin_ParameterThread\obj\Debug\sin_ParameterThread.pdb

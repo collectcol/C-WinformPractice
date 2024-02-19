@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_CMDControl\sin_CMDControl\bin\Debug\sin_CMDControl.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_CMDControl\sin_CMDControl\bin\Debug\sin_CMDControl.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_CMDControl\sin_CMDControl\bin\Debug\sin_CMDControl.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_CMDControl\sin_CMDControl\obj\Debug\sin_CMDControl.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_CMDControl\sin_CMDControl\obj\Debug\sin_CMDControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_CMDControl\sin_CMDControl\obj\Debug\sin_CMDControl.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_CMDControl\sin_CMDControl\obj\Debug\sin_CMDControl.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_CMDControl\sin_CMDControl\obj\Debug\sin_CMDControl.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_CMDControl\sin_CMDControl\obj\Debug\sin_CMDControl.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_CMDControl\sin_CMDControl\obj\Debug\sin_CMDControl.pdb

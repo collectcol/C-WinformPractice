@@ -1,0 +1,11 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap6\sin_WifiScanner\sin_WifiScanner\bin\Debug\sin_WifiScanner.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap6\sin_WifiScanner\sin_WifiScanner\bin\Debug\sin_WifiScanner.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap6\sin_WifiScanner\sin_WifiScanner\bin\Debug\sin_WifiScanner.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap6\sin_WifiScanner\sin_WifiScanner\obj\Debug\sin_WifiScanner.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap6\sin_WifiScanner\sin_WifiScanner\obj\Debug\sin_WifiScanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap6\sin_WifiScanner\sin_WifiScanner\obj\Debug\sin_WifiScanner.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap6\sin_WifiScanner\sin_WifiScanner\obj\Debug\sin_WifiScanner.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap6\sin_WifiScanner\sin_WifiScanner\obj\Debug\sin_WifiScanner.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap6\sin_WifiScanner\sin_WifiScanner\obj\Debug\sin_WifiScanner.csproj.CopyComplete
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap6\sin_WifiScanner\sin_WifiScanner\obj\Debug\sin_WifiScanner.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap6\sin_WifiScanner\sin_WifiScanner\obj\Debug\sin_WifiScanner.pdb

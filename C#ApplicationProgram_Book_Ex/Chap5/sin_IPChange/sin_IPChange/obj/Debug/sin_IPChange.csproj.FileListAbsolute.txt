@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_IPChange\sin_IPChange\bin\Debug\sin_IPChange.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_IPChange\sin_IPChange\bin\Debug\sin_IPChange.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_IPChange\sin_IPChange\bin\Debug\sin_IPChange.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_IPChange\sin_IPChange\obj\Debug\sin_IPChange.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_IPChange\sin_IPChange\obj\Debug\sin_IPChange.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_IPChange\sin_IPChange\obj\Debug\sin_IPChange.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_IPChange\sin_IPChange\obj\Debug\sin_IPChange.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_IPChange\sin_IPChange\obj\Debug\sin_IPChange.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_IPChange\sin_IPChange\obj\Debug\sin_IPChange.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_IPChange\sin_IPChange\obj\Debug\sin_IPChange.pdb

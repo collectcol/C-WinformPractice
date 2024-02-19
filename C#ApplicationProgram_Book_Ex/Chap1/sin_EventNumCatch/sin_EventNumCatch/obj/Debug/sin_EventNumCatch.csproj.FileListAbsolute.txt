@@ -1,0 +1,8 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_EventNumCatch\sin_EventNumCatch\bin\Debug\sin_EventNumCatch.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_EventNumCatch\sin_EventNumCatch\bin\Debug\sin_EventNumCatch.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_EventNumCatch\sin_EventNumCatch\bin\Debug\sin_EventNumCatch.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_EventNumCatch\sin_EventNumCatch\obj\Debug\sin_EventNumCatch.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_EventNumCatch\sin_EventNumCatch\obj\Debug\sin_EventNumCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_EventNumCatch\sin_EventNumCatch\obj\Debug\sin_EventNumCatch.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_EventNumCatch\sin_EventNumCatch\obj\Debug\sin_EventNumCatch.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_EventNumCatch\sin_EventNumCatch\obj\Debug\sin_EventNumCatch.pdb

@@ -1,0 +1,4 @@
+이름	수정한 날짜	유형	크기	경로	
+text1.txt	2024-01-30 오전 10:28:55	txt	0 Bytes	C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\text1.txt	
+이름	수정한 날짜	유형	크기	경로	
+text1.txt	2024-01-30 오전 10:28:55	txt	0 Bytes	C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\text1.txt	

@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_MemoryReaderWriter\sin_MemoryReaderWriter\bin\Debug\sin_MemoryReaderWriter.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_MemoryReaderWriter\sin_MemoryReaderWriter\bin\Debug\sin_MemoryReaderWriter.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_MemoryReaderWriter\sin_MemoryReaderWriter\bin\Debug\sin_MemoryReaderWriter.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_MemoryReaderWriter\sin_MemoryReaderWriter\obj\Debug\sin_MemoryReaderWriter.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_MemoryReaderWriter\sin_MemoryReaderWriter\obj\Debug\sin_MemoryReaderWriter.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_MemoryReaderWriter\sin_MemoryReaderWriter\obj\Debug\sin_MemoryReaderWriter.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_MemoryReaderWriter\sin_MemoryReaderWriter\obj\Debug\sin_MemoryReaderWriter.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_MemoryReaderWriter\sin_MemoryReaderWriter\obj\Debug\sin_MemoryReaderWriter.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_MemoryReaderWriter\sin_MemoryReaderWriter\obj\Debug\sin_MemoryReaderWriter.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_MemoryReaderWriter\sin_MemoryReaderWriter\obj\Debug\sin_MemoryReaderWriter.pdb

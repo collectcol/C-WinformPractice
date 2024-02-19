@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileFinder\sin_FileFinder\bin\Debug\sin_FileFinder.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileFinder\sin_FileFinder\bin\Debug\sin_FileFinder.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileFinder\sin_FileFinder\bin\Debug\sin_FileFinder.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileFinder\sin_FileFinder\obj\Debug\sin_FileFinder.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileFinder\sin_FileFinder\obj\Debug\sin_FileFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileFinder\sin_FileFinder\obj\Debug\sin_FileFinder.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileFinder\sin_FileFinder\obj\Debug\sin_FileFinder.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileFinder\sin_FileFinder\obj\Debug\sin_FileFinder.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileFinder\sin_FileFinder\obj\Debug\sin_FileFinder.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap3\sin_FileFinder\sin_FileFinder\obj\Debug\sin_FileFinder.pdb

@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_CPUCapacity\sin_CPUCapacity\bin\Debug\sin_CPUCapacity.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_CPUCapacity\sin_CPUCapacity\bin\Debug\sin_CPUCapacity.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_CPUCapacity\sin_CPUCapacity\bin\Debug\sin_CPUCapacity.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_CPUCapacity\sin_CPUCapacity\obj\Debug\sin_CPUCapacity.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_CPUCapacity\sin_CPUCapacity\obj\Debug\sin_CPUCapacity.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_CPUCapacity\sin_CPUCapacity\obj\Debug\sin_CPUCapacity.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_CPUCapacity\sin_CPUCapacity\obj\Debug\sin_CPUCapacity.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_CPUCapacity\sin_CPUCapacity\obj\Debug\sin_CPUCapacity.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_CPUCapacity\sin_CPUCapacity\obj\Debug\sin_CPUCapacity.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_CPUCapacity\sin_CPUCapacity\obj\Debug\sin_CPUCapacity.pdb

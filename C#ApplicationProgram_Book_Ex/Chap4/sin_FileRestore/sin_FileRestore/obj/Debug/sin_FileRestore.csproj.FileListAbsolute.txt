@@ -1,0 +1,12 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\bin\Debug\sin_FileRestore.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\bin\Debug\sin_FileRestore.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\bin\Debug\sin_FileRestore.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\obj\Debug\sin_FileRestore.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\obj\Debug\sin_FileRestore.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\obj\Debug\Interop.Shell32.dll
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\obj\Debug\sin_FileRestore.csproj.ResolveComReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\obj\Debug\sin_FileRestore.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\obj\Debug\sin_FileRestore.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\obj\Debug\sin_FileRestore.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\obj\Debug\sin_FileRestore.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_FileRestore\sin_FileRestore\obj\Debug\sin_FileRestore.pdb

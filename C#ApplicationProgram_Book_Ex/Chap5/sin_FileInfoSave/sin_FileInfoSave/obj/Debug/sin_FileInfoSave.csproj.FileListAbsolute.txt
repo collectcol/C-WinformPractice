@@ -1,0 +1,11 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_FileInfoSave\sin_FileInfoSave\bin\Debug\sin_FileInfoSave.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_FileInfoSave\sin_FileInfoSave\bin\Debug\sin_FileInfoSave.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_FileInfoSave\sin_FileInfoSave\bin\Debug\sin_FileInfoSave.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_FileInfoSave\sin_FileInfoSave\obj\Debug\sin_FileInfoSave.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_FileInfoSave\sin_FileInfoSave\obj\Debug\sin_FileInfoSave.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_FileInfoSave\sin_FileInfoSave\obj\Debug\sin_FileInfoSave.csproj.ResolveComReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_FileInfoSave\sin_FileInfoSave\obj\Debug\sin_FileInfoSave.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_FileInfoSave\sin_FileInfoSave\obj\Debug\sin_FileInfoSave.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_FileInfoSave\sin_FileInfoSave\obj\Debug\sin_FileInfoSave.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_FileInfoSave\sin_FileInfoSave\obj\Debug\sin_FileInfoSave.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap5\sin_FileInfoSave\sin_FileInfoSave\obj\Debug\sin_FileInfoSave.pdb

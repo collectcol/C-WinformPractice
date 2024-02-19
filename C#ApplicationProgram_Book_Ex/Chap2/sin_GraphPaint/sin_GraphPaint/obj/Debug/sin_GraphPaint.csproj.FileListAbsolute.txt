@@ -1,0 +1,13 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\bin\Debug\sin_GraphPaint.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\bin\Debug\sin_GraphPaint.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\bin\Debug\sin_GraphPaint.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\bin\Debug\sin_GraphCore.dll
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\bin\Debug\sin_GraphCore.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\obj\Debug\sin_GraphPaint.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\obj\Debug\sin_GraphPaint.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\obj\Debug\sin_GraphPaint.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\obj\Debug\sin_GraphPaint.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\obj\Debug\sin_GraphPaint.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\obj\Debug\sin_GraphPaint.csproj.CopyComplete
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\obj\Debug\sin_GraphPaint.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphPaint\obj\Debug\sin_GraphPaint.pdb

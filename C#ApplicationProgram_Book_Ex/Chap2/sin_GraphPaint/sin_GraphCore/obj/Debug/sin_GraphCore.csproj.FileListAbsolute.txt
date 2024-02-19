@@ -1,0 +1,8 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphCore\bin\Debug\sin_GraphCore.dll
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphCore\bin\Debug\sin_GraphCore.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphCore\obj\Debug\sin_GraphCore.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphCore\obj\Debug\sin_GraphCore.sin_GraphCore.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphCore\obj\Debug\sin_GraphCore.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphCore\obj\Debug\sin_GraphCore.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphCore\obj\Debug\sin_GraphCore.dll
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_GraphPaint\sin_GraphCore\obj\Debug\sin_GraphCore.pdb

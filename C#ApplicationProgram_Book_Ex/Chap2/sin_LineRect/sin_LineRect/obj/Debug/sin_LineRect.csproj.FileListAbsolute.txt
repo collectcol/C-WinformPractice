@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_LineRect\sin_LineRect\bin\Debug\sin_LineRect.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_LineRect\sin_LineRect\bin\Debug\sin_LineRect.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_LineRect\sin_LineRect\bin\Debug\sin_LineRect.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_LineRect\sin_LineRect\obj\Debug\sin_LineRect.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_LineRect\sin_LineRect\obj\Debug\sin_LineRect.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_LineRect\sin_LineRect\obj\Debug\sin_LineRect.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_LineRect\sin_LineRect\obj\Debug\sin_LineRect.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_LineRect\sin_LineRect\obj\Debug\sin_LineRect.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_LineRect\sin_LineRect\obj\Debug\sin_LineRect.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap2\sin_LineRect\sin_LineRect\obj\Debug\sin_LineRect.pdb

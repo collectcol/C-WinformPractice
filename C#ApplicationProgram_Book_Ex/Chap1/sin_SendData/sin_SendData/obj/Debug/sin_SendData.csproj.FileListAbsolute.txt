@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_SendData\sin_SendData\bin\Debug\sin_SendData.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_SendData\sin_SendData\bin\Debug\sin_SendData.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_SendData\sin_SendData\bin\Debug\sin_SendData.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_SendData\sin_SendData\obj\Debug\sin_SendData.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_SendData\sin_SendData\obj\Debug\sin_SendData.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_SendData\sin_SendData\obj\Debug\sin_SendData.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_SendData\sin_SendData\obj\Debug\sin_SendData.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_SendData\sin_SendData\obj\Debug\sin_SendData.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_SendData\sin_SendData\obj\Debug\sin_SendData.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_SendData\sin_SendData\obj\Debug\sin_SendData.pdb

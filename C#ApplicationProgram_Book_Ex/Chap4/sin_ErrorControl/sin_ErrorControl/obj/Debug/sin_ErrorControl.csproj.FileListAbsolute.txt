@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_ErrorControl\sin_ErrorControl\bin\Debug\sin_ErrorControl.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_ErrorControl\sin_ErrorControl\bin\Debug\sin_ErrorControl.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_ErrorControl\sin_ErrorControl\bin\Debug\sin_ErrorControl.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_ErrorControl\sin_ErrorControl\obj\Debug\sin_ErrorControl.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_ErrorControl\sin_ErrorControl\obj\Debug\sin_ErrorControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_ErrorControl\sin_ErrorControl\obj\Debug\sin_ErrorControl.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_ErrorControl\sin_ErrorControl\obj\Debug\sin_ErrorControl.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_ErrorControl\sin_ErrorControl\obj\Debug\sin_ErrorControl.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_ErrorControl\sin_ErrorControl\obj\Debug\sin_ErrorControl.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_ErrorControl\sin_ErrorControl\obj\Debug\sin_ErrorControl.pdb

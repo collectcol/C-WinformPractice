@@ -1,0 +1,14 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\bin\Debug\sin_ReceiveData.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\bin\Debug\sin_ReceiveData.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\bin\Debug\sin_ReceiveData.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\bin\Debug\sin_SendData.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\bin\Debug\sin_SendData.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\bin\Debug\sin_SendData.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\obj\Debug\sin_ReceiveData.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\obj\Debug\sin_ReceiveData.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\obj\Debug\sin_ReceiveData.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\obj\Debug\sin_ReceiveData.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\obj\Debug\sin_ReceiveData.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\obj\Debug\sin_ReceiveData.csproj.CopyComplete
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\obj\Debug\sin_ReceiveData.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\sin_ReceiveData\sin_ReceiveData\obj\Debug\sin_ReceiveData.pdb

@@ -1,0 +1,11 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_MsgForm\sin_MsgForm\bin\Debug\sin_MsgForm.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_MsgForm\sin_MsgForm\bin\Debug\sin_MsgForm.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_MsgForm\sin_MsgForm\bin\Debug\sin_MsgForm.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_MsgForm\sin_MsgForm\obj\Debug\sin_MsgForm.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_MsgForm\sin_MsgForm\obj\Debug\sin_MsgForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_MsgForm\sin_MsgForm\obj\Debug\sin_MsgForm.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_MsgForm\sin_MsgForm\obj\Debug\sin_MsgForm.Properties.Resources.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_MsgForm\sin_MsgForm\obj\Debug\sin_MsgForm.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_MsgForm\sin_MsgForm\obj\Debug\sin_MsgForm.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_MsgForm\sin_MsgForm\obj\Debug\sin_MsgForm.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap1\sin_MsgForm\sin_MsgForm\obj\Debug\sin_MsgForm.pdb

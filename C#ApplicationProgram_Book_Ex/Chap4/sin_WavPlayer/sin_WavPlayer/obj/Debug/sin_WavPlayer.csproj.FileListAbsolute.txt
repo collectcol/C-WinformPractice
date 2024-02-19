@@ -1,0 +1,10 @@
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_WavPlayer\sin_WavPlayer\bin\Debug\sin_WavPlayer.exe.config
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_WavPlayer\sin_WavPlayer\bin\Debug\sin_WavPlayer.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_WavPlayer\sin_WavPlayer\bin\Debug\sin_WavPlayer.pdb
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_WavPlayer\sin_WavPlayer\obj\Debug\sin_WavPlayer.csproj.AssemblyReference.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_WavPlayer\sin_WavPlayer\obj\Debug\sin_WavPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_WavPlayer\sin_WavPlayer\obj\Debug\sin_WavPlayer.Form1.resources
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_WavPlayer\sin_WavPlayer\obj\Debug\sin_WavPlayer.csproj.GenerateResource.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_WavPlayer\sin_WavPlayer\obj\Debug\sin_WavPlayer.csproj.CoreCompileInputs.cache
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_WavPlayer\sin_WavPlayer\obj\Debug\sin_WavPlayer.exe
+C:\Users\ManLab01\Desktop\Reference Materials\C#프로그래밍\Chap4\sin_WavPlayer\sin_WavPlayer\obj\Debug\sin_WavPlayer.pdb
